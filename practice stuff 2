@@ -1,0 +1,55 @@
+<html>
+<body> <h1> <small>
+  Hi.
+</body>
+</html>
+<img src="https://www.naturalfoodseries.com/wp-content/uploads/2018/02/Oranges-800x416.jpg">
+<ul>
+
+  <li><a href="http://en.wikipedia.org/wiki/Main_Page">Website</a></li>
+<ul>
+<div id=left
+  position: absolute
+  width: 400px;,
+</div>
+<div id= right
+position: absolute
+left: 400px;
+</div>
+  <p>This is how i feel today with <strong>not a lot to do </strong> </p>
+  <p> It's hot out today and I'm not feeling it </p>
+<li> I'm starving </li>
+  <li> i also want new clothes </li>
+  <span
+  <li> i'm tired </li>
+  <sub>i like pizza</sub>i like ice cream</sub>
+  <p><button>Default button</button></p>
+  <sup>i like space a lot</sup>
+  <style>
+  h1 {
+      display: block;
+  color #333;
+}
+h1:hover {
+  color: #999;
+  transition: color 2s}
+
+h1 {
+  color: blue;
+  background: orange;
+
+font-size: 200%;
+margin: 25%;
+padding: 20px 20px 20px 20px;
+border: 3px;
+border-radius: 10px;
+width: 50%;
+font-family: sans-serif;
+text-transform: capitalize;
+text-align: center;
+}
+</style>
+<div id="container"   display: flex #container >
+  <h1>
+
+    <p> did this work  </p>
